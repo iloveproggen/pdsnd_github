@@ -4,10 +4,10 @@
 Include the date you created this project and README file.
 
 ### Project Title
-Replace the Project Title
+Bikeshare Project 
 
 ### Description
-Describe what your project is about and what it does
+Bike sharing project for people that like bikes 
 
 ### Files used
 Include the files used
