@@ -11,6 +11,8 @@ Bike sharing project for people that like bikes
 
 ### Files used
 Include the files used
+- bikeshare.py
+- .gitignore
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
